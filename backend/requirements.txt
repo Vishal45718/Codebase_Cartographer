@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+GitPython
+networkx
+pydantic
+aiohttp
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+tree-sitter-typescript
